@@ -33,7 +33,7 @@ ollama pull llama3.2
 5. Install the [ExifTool](https://exiftool.org/) for your system.
 6. Install Python [3.10.11](https://www.python.org/downloads/release/python-31011/).
 7. Adjust the paths for ExifTool, the image directories, and the LLM designation in the code.
-8. Create a file for the metadata. Use the template in the repository.
+8. Create a file for the metadata or use the [template](https://github.com/stefanpietrusky/EXI.AI-Q/blob/main/metadata.txt) in the repository.
 9. Implement the metadata into the corresponding images.
 ```bash 
 python metadata.py
