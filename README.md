@@ -1,4 +1,4 @@
-![](images/IEC_Logo.png)
+![](images/EXI.AI-Q_Logo.png)
 
 # EXI.AI-Q-V1 APP
 
