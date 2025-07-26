@@ -29,7 +29,7 @@ pip install -r requirements.txt
 ```bash 
 ollama pull llama3.2
 ```
-4. If you encounter issues with meta responses or the non-deterministic outputs of the model, you will need to adjust the parameters (temperature, seed, and top_p) of the LLM using a [modelfile](https://github.com/stefanpietrusky/EXI.AI-Q/blob/main/modelfile.txt). An example can be found in the repository.
+4. If you encounter issues with meta responses or the non-deterministic outputs of the model, you will need to adjust the parameters (temperature, seed, and top_p) of the LLM using a modelfile. An [example](https://github.com/stefanpietrusky/EXI.AI-Q/blob/main/modelfile.txt) can be found in the repository.
 5. Install the [ExifTool](https://exiftool.org/) for your system.
 6. Install Python [3.10.11](https://www.python.org/downloads/release/python-31011/).
 7. Adjust the paths for ExifTool, the image directories, and the LLM designation in the code.
