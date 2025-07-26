@@ -1,7 +1,6 @@
 ![](images/IEC_Logo.png)
 
 # EXI.AI-Q-V1 APP
-## Individual Educational Chatbot
 
 This repository, developed by Stefan Pietrusky, deals with a prototype that circumvents the problem of computationally intensive image neural networks or computer vision pipelines by storing the image content as simple text metadata that an LLM refers to during communication. Depending on the image, appropriate questions are generated, which are answered by the user and evaluated by the app without consuming high computing power. 
 
