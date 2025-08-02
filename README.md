@@ -8,12 +8,12 @@ The metadata for JPEG and GIF files is implemented using the external tool [Exif
 
 ## EXI.AI-Q Structure
 The structure of the current [V1] EXI.AI-Q app is shown below.
-![EXI.AI-Q V1 Structure (SVG created with Mermaid](images/EXI.AI-Q-V1.svg)
+![EXI.AI-Q V1 Structure (SVG created with Mermaid)](images/EXI.AI-Q-V1.svg)
 
 ## EXI.AI-Q working principle
 Below is a short GIF showing the structure and function of the app.
 
-![EXI.AI-Q V1 (Gif by author](images/EXI.AI-Q-V1.gif)
+![EXI.AI-Q V1 (Gif by author)](images/EXI.AI-Q-V1.gif)
 
 ## Installing and running the application 
 1. Clone this repository on your local computer: 
