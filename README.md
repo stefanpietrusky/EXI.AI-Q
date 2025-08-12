@@ -18,7 +18,7 @@ Below is a short GIF showing the structure and function of the app.
 ## Installing and running the application 
 1. Clone this repository on your local computer: 
 ```bash 
-git clone https://github.com/stefanpietrusky/EXI.AI-Q
+git clone https://github.com/stefanpietrusky/EXI.AI-Q.git
 ```
 2. Install the required dependencies:
 ```bash 
