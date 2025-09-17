@@ -6,6 +6,8 @@ This repository, developed by Stefan Pietrusky, deals with a prototype that circ
 
 The metadata for JPEG and GIF files is implemented using the external tool [ExifTool](https://exiftool.org/). Since PNG files do not recognize EXIF segments but store them in chunks, Pillow is used here. 
 
+> **⚠️ Work in Progress:** This prototyp is currently under active development. While I make it available for research purposes, please be aware that there will be some changes to the functional structure. I recognize that some current technical design decisions may not be optimal and are subject to revision. Researchers using this prototyp should expect potential updates and changes. I recommend checking back regularly for updates and versioning information.
+
 ## EXI.AI-Q Structure
 The structure of the current [V1] EXI.AI-Q app is shown below.
 ![EXI.AI-Q V1 Structure (SVG created with Mermaid)](images/EXI.AI-Q-V1.svg)
